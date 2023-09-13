@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aashish Jha</h1>
 <h3 align="center">Hi I m a passionate DevOps Engineer from India, working on Cloud and DevOps.Feel free to reach out for any Freelance Projects.</h3>
 
+<!-- Schedule a 1-on-1 Call Section -->
+<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
+<p align="left">
+  <a href="https://topmate.io/aashesh" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashess&label=Profile%20views&color=0e75b6&style=flat" alt="aashess" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashess" alt="aashess" /></a> </p>
