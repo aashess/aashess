@@ -1,7 +1,7 @@
 ### Hey there, I’m Aashish Jha 👋. Welcome to my GitHub!  
-Check out my website @ [everythingbyak.com](https://www.aashesh.cloud/)
+Check out my website @ [aashesh.cloud](https://www.aashesh.cloud/)
 
-<p><img align="right" alt="gif" src="output-onlinegiftools.gif" width="500px" height="300px"/></p>
+<p><img align="right" alt="gif" src="https://github.com/anudeep-17/anudeep-17/blob/main/output-onlinegiftools.gif" width="500px" height="300px"/></p>
 
 ---
 
