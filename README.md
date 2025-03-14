@@ -1,48 +1,72 @@
-<h1 align="center">Hi 👋, I'm Aashish Jha</h1>
-<h3 align="center">Hi I m a passionate DevOps Engineer from India, working on Cloud and DevOps.Feel free to reach out for any Freelance Projects.</h3>
+### Hey there, I’m Aashish Jha 👋. Welcome to my GitHub!  
+Check out my website @ [everythingbyak.com](https://www.aashesh.cloud/)
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/aashesh" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+<p><img align="right" alt="gif" src="output-onlinegiftools.gif" width="500px" height="300px"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashess&label=Profile%20views&color=0e75b6&style=flat" alt="aashess" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashess" alt="aashess" /></a> </p>
+### 🌟 About Me  
+I'm a **passionate coder** driven to create solutions to real-world problems! As a **full-stack developer** with expertise in **JavaScript**, **Python**, and **Docker**, I’ve honed my ability to collaborate on innovative projects that thrive in dynamic, fast-paced environments. I’m always looking to push the boundaries of what technology can achieve, with a focus on **creative problem-solving** and **continuous learning**.
 
-<p align="left"> <a href="https://twitter.com/aashesh_j" target="blank"><img src="https://img.shields.io/twitter/follow/aashesh_j?logo=twitter&style=for-the-badge" alt="aashesh_j" /></a> </p>
+---
 
-- 🔭 I’m currently working on **DevOps, Microservices, containers, and everything around it.**
+### 🎓 Education  
+**Bachelor Student in Computer Science** at Noida International University,
+I'm diving deep into cutting-edge tech! My coursework spans everything from **Software Engineering** and **AI** to **Algorithms & Data Structures**.
 
-- 🌱 I’m currently learning **AWS and Different Cloud Practices.**
+---
 
-- 👯 I’m looking to collaborate on **Cloud-Native Projects.**
+### 💼 Professional Experience  
+I’ve been working as a **Full-Stack Developer**, sharpening my skills by building end-to-end solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/aashess](https://github.com/aashess)
+- **At Personal Project:** Worked on several projects from Portfolio to some of the finance app. 
 
-- 📝 I regularly write articles on [https://aashesh.hashnode.dev/](https://aashesh.hashnode.dev/)
 
-- 💬 Ask me about **Cloud and Infrastructure.**
+---
 
-- 📫 How to reach me **aashesh.j@gmail.com**
+### 🔥 My Stats  
+[![Top Langs](https://hub-readme-stats.vercel.app/api/top-langs/?username=aashesh-17&layout=compact&hide=css,scss,tsql,racket,html&theme=tokyonight)](https://github.com/aashess/github-readme-stats)
+ 
+<!-- [![Anudeep's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/anudeep-17?cardType=level-alternate&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aashesh_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashesh_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aashess/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aashess/" height="30" width="40" /></a>
-<a href="https://instagram.com/aashesh_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashesh_j" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aashesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aashesh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### 🖥️ Tech Stack  
+Here’s a glimpse into my tech arsenal:
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aashesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aashesh" /></a></p><br><br>
+- **Programming Languages:** Java, Python, C, C++, Kotlin, Dart, JavaScript, TypeScript 🧑‍💻  
+- **Web Development:** React.js, Next.js, Node.js, Vue.js, Three.js, D3.js, Django, Wagtail, Contentlayer 🌐  
+- **Databases:** SQL (MySQL, PostgreSQL, MS SQL), NoSQL (MongoDB, Redis), ORM tools (Prisma) 💾  
+- **Cloud & DevOps:** AWS (including Serverless Architecture), Azure, Docker, Jenkins ☁️  
+- **Tools/Frameworks:** Spring Boot, Express.js, Git (Version Control), Postman, Selenium, MVC Architecture 🛠️  
+- **Other Web Technologies:** PHP, HTML, CSS, XML, jQuery, RESTful APIs, Responsive Design 🌐
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashess&show_icons=true&locale=en&layout=compact" alt="aashess" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashess&show_icons=true&locale=en" alt="aashess" /></p>
+### 🚀 Seeking Full-Time Roles  
+I’m actively looking for full-time roles where I can bring my skills to the table and contribute to meaningful projects. Here are the roles that excite me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashess&" alt="aashess" /></p>
+- **Software Developer / Software Engineer / Software Development Engineer (SD, SE, SDE)**  
+- **Application Developer**  
+- **Web Developer / Web Application Developer**  
+- **Full Stack Developer**
+
+If you're looking for someone who loves tackling challenges head-on, let's talk!
+
+---
+
+### 🏋️‍♂️ Fun Fact  
+When I’m not coding, you’ll find me lifting weights at the gym or exploring the latest trends in tech (seriously, I might just start coding at the gym next!). 💪😁
+
+---
+
+### Let’s Connect and Explore Possibilities!  
+I pride myself on being a **team player** who thrives in collaborative environments that value open communication and shared success. Whether it's building products from scratch or enhancing existing solutions, I believe in harnessing the power of teamwork to achieve outstanding results.
+
+I’m excited to bring this approach to new opportunities and contribute to high-performing teams. If you see an opportunity for us to collaborate or just want to chat about tech, **let’s connect**! 🌐
+
+- 📧 Drop me an email at: [aashesh.j@gmail.com](mailto:aashesh.j@gmail.com)  
+- 🌍 Check out my portfolio: [https://aashess.github.io/](https://aashess.github.io/)  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aashesh.j/) and explore my work on [GitHub](https://github.com/aashess)
+
+***[⌘ + s]***
