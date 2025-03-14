@@ -67,6 +67,6 @@ I’m excited to bring this approach to new opportunities and contribute to high
 
 - 📧 Drop me an email at: [aashesh.j@gmail.com](mailto:aashesh.j@gmail.com)  
 - 🌍 Check out my portfolio: [https://aashess.github.io/](https://aashess.github.io/)  
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aashess/) and explore my work on [GitHub](https://github.com/aashess)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aashesh/) and explore my work on [GitHub](https://github.com/aashess)
 
 ***[⌘ + s]***
